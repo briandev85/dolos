@@ -1,0 +1,17 @@
+pids
+logs
+node_modules
+npm-debug.log
+coverage/
+run
+dist
+.DS_Store
+.nyc_output
+.basement
+config.local.js
+basement_dist
+.vuepress/.temp
+.vuepress/.cache
+.vitepress/.temp
+.vitepress/cache
+.vitepress/dist
